@@ -16,7 +16,7 @@
  * - Finally, the second element is set to the value of temp, completing the swap.
  */
 
-public class Main {
+public class Swap {
     public static void main(String[] args) {
         int[] originals = {1, 2};
         swap(originals);
