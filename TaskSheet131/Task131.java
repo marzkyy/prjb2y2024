@@ -5,12 +5,11 @@
  * Course: Java NCIII - Batch 2 
  *
  * 
- * Title: Writing Control flow statements using Loops
+ * Title: Demonstrate Java Polymorphism of various types
  * 
- * Performance Objective: Given a function of " (i%2==0) ? 'even' : 'odd' ; ", 
- * you should be able to write a program that will check each number if the 
- * given numbers are odd or even numbers, print them, and compile it to run 
- * in a java virtual machine without errors following Java Standard Edition specification.
+ * Performance Objective: GGiven a java file Task131.java in a single package named Task13  you should be able
+ * to write a program that can reference variables to refer to objects of various types at different times and
+ * compile it to run in a java virtual machine without errors following Java Standard Edition specification.
  */
 
 
